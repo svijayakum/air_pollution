@@ -1,9 +1,9 @@
 Files in this repo  
 
-README.md – This is the README.md
-pollutant_mean.R - Function that calculates the mean of a pollutant.    
-complete.R -  Function that returns number of completely observed cases.   
-corre.R - Function that returns the correlation between sufate and nitrate for monitor loctions with complete observations above a threshold.  
+-README.md – This is the README.md
+-pollutant_mean.R - Function that calculates the mean of a pollutant.    
+-complete.R -  Function that returns number of completely observed cases.   
+-corre.R - Function that returns the correlation between sufate and nitrate for monitor loctions with complete observations above a threshold.  
 
 
  
